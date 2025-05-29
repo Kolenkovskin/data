@@ -22,3 +22,19 @@ C:\Users\Estal\PycharmProjects\ONNX_bot\.venv\Scripts\python.exe C:\Users\Estal\
 Проверка завершена
 
 Process finished with exit code 0
+
+C:\Users\Estal\PycharmProjects\ONNX_bot\.venv\Scripts\python.exe C:\Users\Estal\PycharmProjects\ONNX_bot\py\check_15min_gaps.py 
+[2025-05-29 21:37:41.641321] Проверка пропусков в 15 Mins файлах
+
+Обработка файла: XAUUSD_15 Mins_Ask_2020.01.01_2025.05.25.csv
+Пропуски во времени (больше ожидаемого интервала 0:15:00): 1391
+Процент пропусков: 1.09%
+
+Обработка файла: XAUUSD_15 Mins_Bid_2020.01.01_2025.05.25.csv
+Пропуски во времени (больше ожидаемого интервала 0:15:00): 1391
+Процент пропусков: 1.09%
+
+Проверка завершена
+
+Process finished with exit code 0
+
